@@ -1,0 +1,933 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0650583789007366,
+          26.493946102734892
+        ]
+      },
+      "properties": {
+        "name": "Adrar",
+        "temperature": 23.0,
+        "humidity": 37,
+        "windspeed": 10.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.865591760455686,
+          29.722879692929183
+        ]
+      },
+      "properties": {
+        "name": "Timimoune",
+        "temperature": 21.3,
+        "humidity": 38,
+        "windspeed": 9.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6186859840546611,
+          23.250923700984877
+        ]
+      },
+      "properties": {
+        "name": "Bordj Badji Mokhtar",
+        "temperature": 23.0,
+        "humidity": 30,
+        "windspeed": 8.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.507980004789577,
+          20.438212533891985
+        ]
+      },
+      "properties": {
+        "name": "In Guezzam",
+        "temperature": 26.6,
+        "humidity": 14,
+        "windspeed": 2.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.19636081587916,
+          23.48525264463103
+        ]
+      },
+      "properties": {
+        "name": "Tamanrasset",
+        "temperature": 19.2,
+        "humidity": 23,
+        "windspeed": 8.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.327252788488021,
+          24.167241952323828
+        ]
+      },
+      "properties": {
+        "name": "Djanet",
+        "temperature": 19.7,
+        "humidity": 29,
+        "windspeed": 2.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.901915447180326,
+          27.864137031906363
+        ]
+      },
+      "properties": {
+        "name": "Illizi",
+        "temperature": 22.4,
+        "humidity": 37,
+        "windspeed": 16.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.099197757492247,
+          31.002375383307182
+        ]
+      },
+      "properties": {
+        "name": "Ouargla",
+        "temperature": 20.2,
+        "humidity": 40,
+        "windspeed": 7.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.422394371634086,
+          27.335698599781626
+        ]
+      },
+      "properties": {
+        "name": "In Salah",
+        "temperature": 22.3,
+        "humidity": 37,
+        "windspeed": 14.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7191875815674913,
+          29.4753918518186
+        ]
+      },
+      "properties": {
+        "name": "Béni Abbès",
+        "temperature": 22.0,
+        "humidity": 40,
+        "windspeed": 1.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0614712300268625,
+          27.69343783190391
+        ]
+      },
+      "properties": {
+        "name": "Tindouf",
+        "temperature": 22.4,
+        "humidity": 33,
+        "windspeed": 6.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.918120377024599,
+          31.367618871872683
+        ]
+      },
+      "properties": {
+        "name": "Béchar",
+        "temperature": 17.0,
+        "humidity": 58,
+        "windspeed": 4.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.76867091481496,
+          33.30497169189241
+        ]
+      },
+      "properties": {
+        "name": "Naâma",
+        "temperature": 12.9,
+        "humidity": 86,
+        "windspeed": 1.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5039412449906296,
+          34.70714850895539
+        ]
+      },
+      "properties": {
+        "name": "Sidi Bel Abbès",
+        "temperature": 8.1,
+        "humidity": 94,
+        "windspeed": 1.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4053283360060511,
+          34.72716787412252
+        ]
+      },
+      "properties": {
+        "name": "Tlemcen",
+        "temperature": 9.8,
+        "humidity": 89,
+        "windspeed": 9.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0555554123923532,
+          35.350397184167385
+        ]
+      },
+      "properties": {
+        "name": "Aïn Témouchent",
+        "temperature": 12.3,
+        "humidity": 93,
+        "windspeed": 7.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5999708503776519,
+          35.64858714644994
+        ]
+      },
+      "properties": {
+        "name": "Oran",
+        "temperature": 12.4,
+        "humidity": 90,
+        "windspeed": 5.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2802805949352393,
+          34.7376395910824
+        ]
+      },
+      "properties": {
+        "name": "Saïda",
+        "temperature": 8.3,
+        "humidity": 88,
+        "windspeed": 3.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1580837026881661,
+          35.39183908474426
+        ]
+      },
+      "properties": {
+        "name": "Mascara",
+        "temperature": 11.7,
+        "humidity": 82,
+        "windspeed": 1.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9106185616589056,
+          32.56581207619505
+        ]
+      },
+      "properties": {
+        "name": "El Bayadh",
+        "temperature": 16.1,
+        "humidity": 67,
+        "windspeed": 5.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.529460918423234,
+          34.96541705939274
+        ]
+      },
+      "properties": {
+        "name": "Tiaret",
+        "temperature": 7.3,
+        "humidity": 89,
+        "windspeed": 4.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8002971450761196,
+          35.80103675241056
+        ]
+      },
+      "properties": {
+        "name": "Relizane",
+        "temperature": 12.4,
+        "humidity": 85,
+        "windspeed": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3324611177124133,
+          35.987591710449685
+        ]
+      },
+      "properties": {
+        "name": "Mostaganem",
+        "temperature": 12.9,
+        "humidity": 84,
+        "windspeed": 4.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7286469563007323,
+          33.607950981805345
+        ]
+      },
+      "properties": {
+        "name": "Laghouat",
+        "temperature": 15.6,
+        "humidity": 69,
+        "windspeed": 5.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0037626649283165,
+          30.719092117145756
+        ]
+      },
+      "properties": {
+        "name": "El Menia",
+        "temperature": 18.4,
+        "humidity": 47,
+        "windspeed": 4.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8106842694891168,
+          35.757657572705604
+        ]
+      },
+      "properties": {
+        "name": "Tissemsilt",
+        "temperature": 9.6,
+        "humidity": 84,
+        "windspeed": 2.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.683583165200527,
+          32.53525875370376
+        ]
+      },
+      "properties": {
+        "name": "Ghardaia",
+        "temperature": 16.9,
+        "humidity": 62,
+        "windspeed": 4.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2552126281509544,
+          36.238025731694165
+        ]
+      },
+      "properties": {
+        "name": "Chlef",
+        "temperature": 12.1,
+        "humidity": 79,
+        "windspeed": 3.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.065279291239589,
+          36.18438612121451
+        ]
+      },
+      "properties": {
+        "name": "Aïn Defla",
+        "temperature": 11.3,
+        "humidity": 82,
+        "windspeed": 7.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.813450420599636,
+          34.214291880248304
+        ]
+      },
+      "properties": {
+        "name": "Ouled Djellal",
+        "temperature": 17.5,
+        "humidity": 69,
+        "windspeed": 1.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2163418466634566,
+          36.51906910082401
+        ]
+      },
+      "properties": {
+        "name": "Tipaza",
+        "temperature": 10.2,
+        "humidity": 88,
+        "windspeed": 4.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9222208359754087,
+          35.979055804349564
+        ]
+      },
+      "properties": {
+        "name": "Médéa",
+        "temperature": 8.0,
+        "humidity": 87,
+        "windspeed": 6.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0549535102347845,
+          36.705048757194774
+        ]
+      },
+      "properties": {
+        "name": "Algiers",
+        "temperature": 15.3,
+        "humidity": 79,
+        "windspeed": 4.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.917399250851119,
+          36.49159661332275
+        ]
+      },
+      "properties": {
+        "name": "Blida",
+        "temperature": 13.0,
+        "humidity": 82,
+        "windspeed": 4.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.203037567955976,
+          36.67491199118061
+        ]
+      },
+      "properties": {
+        "name": "Tizi Ouzou",
+        "temperature": 12.4,
+        "humidity": 83,
+        "windspeed": 4.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8429122983375574,
+          36.252622839757976
+        ]
+      },
+      "properties": {
+        "name": "Bouira",
+        "temperature": 11.9,
+        "humidity": 90,
+        "windspeed": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.257882727244962,
+          35.288210366677845
+        ]
+      },
+      "properties": {
+        "name": "M'Sila",
+        "temperature": 15.1,
+        "humidity": 67,
+        "windspeed": 3.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.532929650718416,
+          34.387198751516806
+        ]
+      },
+      "properties": {
+        "name": "Djelfa",
+        "temperature": 14.6,
+        "humidity": 63,
+        "windspeed": 10.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8343315767831525,
+          36.57654476039962
+        ]
+      },
+      "properties": {
+        "name": "Béjaïa",
+        "temperature": 10.9,
+        "humidity": 78,
+        "windspeed": 7.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.43757795316515,
+          36.13745744022174
+        ]
+      },
+      "properties": {
+        "name": "Sétif",
+        "temperature": 9.7,
+        "humidity": 98,
+        "windspeed": 3.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.714215939315781,
+          36.081256140772496
+        ]
+      },
+      "properties": {
+        "name": "Bordj Bou Arreridj",
+        "temperature": 9.8,
+        "humidity": 89,
+        "windspeed": 3.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.969962639111688,
+          36.701307870831606
+        ]
+      },
+      "properties": {
+        "name": "Jijel",
+        "temperature": 19.7,
+        "humidity": 72,
+        "windspeed": 8.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.873121741802269,
+          35.41965472268307
+        ]
+      },
+      "properties": {
+        "name": "Batna",
+        "temperature": 10.2,
+        "humidity": 91,
+        "windspeed": 8.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.90296943192102,
+          34.748074103230465
+        ]
+      },
+      "properties": {
+        "name": "Biskra",
+        "temperature": 18.7,
+        "humidity": 61,
+        "windspeed": 6.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.659886109436347,
+          33.91587582401012
+        ]
+      },
+      "properties": {
+        "name": "El M'Ghair",
+        "temperature": 17.2,
+        "humidity": 72,
+        "windspeed": 6.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.341154064332839,
+          32.93315011900966
+        ]
+      },
+      "properties": {
+        "name": "Touggourt",
+        "temperature": 18.7,
+        "humidity": 51,
+        "windspeed": 1.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3017212141137104,
+          33.13363999978017
+        ]
+      },
+      "properties": {
+        "name": "El Oued",
+        "temperature": 18.8,
+        "humidity": 51,
+        "windspeed": 2.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.995523600217102,
+          34.982981173772906
+        ]
+      },
+      "properties": {
+        "name": "Khenchela",
+        "temperature": 13.0,
+        "humidity": 83,
+        "windspeed": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.853744135758953,
+          35.06212189550599
+        ]
+      },
+      "properties": {
+        "name": "Tébessa",
+        "temperature": 11.2,
+        "humidity": 93,
+        "windspeed": 6.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.063930931921567,
+          35.83658284251651
+        ]
+      },
+      "properties": {
+        "name": "Oum El Bouaghi",
+        "temperature": 11.8,
+        "humidity": 99,
+        "windspeed": 2.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.883284795612307,
+          36.149767792442645
+        ]
+      },
+      "properties": {
+        "name": "Souk Ahras",
+        "temperature": 12.9,
+        "humidity": 93,
+        "windspeed": 2.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3945985550205195,
+          36.39591131433774
+        ]
+      },
+      "properties": {
+        "name": "Guelma",
+        "temperature": 12.3,
+        "humidity": 94,
+        "windspeed": 0.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.14453728646897,
+          36.7132371811707
+        ]
+      },
+      "properties": {
+        "name": "El Tarf",
+        "temperature": 14.6,
+        "humidity": 91,
+        "windspeed": 6.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.542052067974519,
+          36.83781143482129
+        ]
+      },
+      "properties": {
+        "name": "Annaba",
+        "temperature": 17.4,
+        "humidity": 84,
+        "windspeed": 4.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.832813182478799,
+          36.78208078676489
+        ]
+      },
+      "properties": {
+        "name": "Skikda",
+        "temperature": 14.1,
+        "humidity": 89,
+        "windspeed": 4.4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.145034464712195,
+          36.2934465358721
+        ]
+      },
+      "properties": {
+        "name": "Mila",
+        "temperature": 11.4,
+        "humidity": 98,
+        "windspeed": 2.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.687152122439632,
+          36.34860885308479
+        ]
+      },
+      "properties": {
+        "name": "Constantine",
+        "temperature": 14.5,
+        "humidity": 92,
+        "windspeed": 1.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.636841589008461,
+          36.728389271097114
+        ]
+      },
+      "properties": {
+        "name": "Boumerdès",
+        "temperature": 17.6,
+        "humidity": 70,
+        "windspeed": 7.4
+      }
+    }
+  ]
+}
